@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrés Villasmil!
 
-Welcome to my GitHub! I’m a joyful developer whose happiness and optimism drive my passion for tech. Every day I strive to become a better professional, building creative solutions and learning from every challenge.
+Joyfull, filled with happiness and always with my head up are the things that make me who I am. Looking forward to being a better professional every day.
 
 ---
 

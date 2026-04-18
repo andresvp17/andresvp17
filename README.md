@@ -15,7 +15,7 @@ Joyfull, filled with happiness and always with my head up are the things that ma
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,git,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,react,nodejs,aws,git,postgres,mongodb" />
 </p>
 
 ## ✨ Featured Projects
